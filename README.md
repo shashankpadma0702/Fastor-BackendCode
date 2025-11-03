@@ -6,7 +6,7 @@ A secure and scalable Customer Relationship Management (CRM) backend built with 
 
 API Base URL: https://fastor-crm-backend.onrender.com
 
-GitHub Repository: https://github.com/eshwarpresi/fastor-crm-backend
+GitHub Repository: https://github.com/shashankpadma0702/Fastor-BackendCode
 📋 Features Implemented ✅ Core Requirements
 
 Employee Registration & Login (JWT Authentication)
